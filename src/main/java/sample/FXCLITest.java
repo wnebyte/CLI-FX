@@ -2,7 +2,7 @@ package sample;
 
 import config.Configuration;
 import config.Startup;
-import data.FXConsole;
+import model.FXConsole;
 import iface.IConfiguration;
 import iface.IFXConsole;
 import javafx.application.Application;
